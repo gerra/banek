@@ -16,8 +16,9 @@ async def send_anek():
 
     with open(anek_file_path, "r") as f:
         text = f.read()
-        bot = Bot(token=token)
         try:
+            log("Creating a bot...")
+            bot = Bot(token=token)
             log("Sending a message...")
             await bot.send_message(chat_id=channel_id, text=text)
             log("Message sent!")
