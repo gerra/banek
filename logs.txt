@@ -1,12 +1,22 @@
-[send_scheduler.sh] 2023-08-09 20:44:38 - Scheduled at 15:42: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[send_scheduler.sh] 2023-08-09 20:46:01 - Scheduled at 19:32: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[send_scheduler.sh] 2023-08-09 20:46:12 - Scheduled at 15:33: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[send_scheduler.sh] 2023-08-09 20:46:19 - Scheduled at 17:17: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[send_scheduler.sh] 2023-08-09 20:48:40 - Scheduled at 16:05: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[send_scheduler.sh] 2023-08-09 20:48:59 - Scheduled at 17:03: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[send_scheduler.sh] 2023-08-09 20:49:23 - Scheduled at 19:31: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[script_file_name] 2023-08-09 20:53:14 - I'm HERE
-[send_scheduler.sh] 2023-08-09 20:53:37 - Scheduled at 17:57: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[send_anek.py] 2023-08-09 20:54:31 - I'm HERE
-[send_scheduler.sh] 2023-08-09 20:54:49 - Scheduled at 17:00: python3 /Users/germanberezko/Projects/banek/send_anek.py
-[send_scheduler.sh] 2023-08-09 20:57:07 - Scheduled at 20:34: python3 /Users/germanberezko/Projects/banek/send_anek.py
+[send_anek.py] 2023-08-09 21:37:01 - I'm HERE
+[send_anek.py] 2023-08-09 21:39:31 - I'm HERE
+[send_anek.py] 2023-08-09 21:39:55 - I'm HERE
+[send_anek.py] 2023-08-09 21:47:49 - Sending a message...
+[send_anek.py] 2023-08-09 21:47:49 - Message sent!
+[send_anek.py] 2023-08-09 21:48:31 - Sending a message...
+[send_anek.py] 2023-08-09 21:48:31 - Message sent!
+[send_anek.py] 2023-08-09 21:48:48 - Sending a message...
+[send_anek.py] 2023-08-09 21:48:49 - Message sent!
+[send_anek.py] 2023-08-09 21:48:56 - Sending a message...
+[send_anek.py] 2023-08-09 21:48:57 - Message sent!
+[send_anek.py] 2023-08-09 21:49:05 - Sending a message...
+[send_anek.py] 2023-08-09 21:49:05 - Message sent!
+[send_anek.py] 2023-08-09 21:49:23 - Sending a message...
+[send_anek.py] 2023-08-09 21:49:23 - HAHAHAHA
+[send_anek.py] 2023-08-09 21:49:23 - Message sent!
+[send_anek.py] 2023-08-09 21:49:50 - Sending a message...
+[send_anek.py] 2023-08-09 21:49:50 - Error: HAHAHAHA
+[send_anek.py] 2023-08-09 21:49:50 - Message sent!
+[send_anek.py] 2023-08-09 21:50:28 - Starting a script...
+[send_anek.py] 2023-08-09 21:50:28 - Sending a message...
+[send_anek.py] 2023-08-09 21:50:28 - Message sent!
