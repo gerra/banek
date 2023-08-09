@@ -23,7 +23,7 @@ async def send_anek():
             await bot.send_message(chat_id=channel_id, text=text)
             log("Message sent!")
         except TelegramError as e:
-            log(e)
+            log(f"Error: {e.message}")
         except Exception as e:
             log(f"Error: {e.__str__()}")
 
